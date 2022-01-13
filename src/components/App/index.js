@@ -11,8 +11,8 @@ function App() {
       <div className="App">
          <nav className="nav-bar">
             <h1>www.veg.com</h1>
-            <Link to="/about">About</Link>
             <Link to="/">Home</Link>
+            <Link to="/about">About</Link>
             <Link to="/aceVentura">AceVenturaPage</Link>
          </nav>
          <Routes>
